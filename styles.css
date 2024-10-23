@@ -1,0 +1,26 @@
+body {
+  background-color: lightblue;
+  font-family: Arial;
+}
+
+h1 {
+  text-align: center;
+  font-family: Verdana
+}
+
+.palindrome {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#text-input {
+  margin: 0.5rem;
+  width: 50vw;
+  height: 10vh;
+}
+
+#result {
+  margin: 0.5rem;
+}
